@@ -1,3 +1,10 @@
+Code-Test (1) file is my original work on CodePen. You can also find that here:
+https://codepen.io/factor23/pen/vwVBrL
+https://codepen.io/factor23/full/rgvNBj
+
+The endpoint-test-Alex-Factor is the download and replacement of the code given in the original repository
+
+
 Description:
 
 For JavaScript:
